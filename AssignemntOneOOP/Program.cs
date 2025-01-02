@@ -41,7 +41,7 @@
 
                 int.TryParse( Console.ReadLine(),out int age);
 
-                p1 = new Person(Name, age);
+                p1 = new Person(Name, age); ;
 
                 p[i] = p1;
 
